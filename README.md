@@ -62,7 +62,9 @@ o After finishing, click File > Exit to close Eclipse IDE.
 
 
 ## PROGRAM:
-'''
+
+```
+
 package mat;
 
 public class Addmatrix7 {
@@ -100,7 +102,8 @@ public class Addmatrix7 {
 	    }
 	}
 
- '''
+ ```
+
 ## OUTPUT:
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/6445623f-ac12-4267-a64c-beb7e2fd4b04" />
 
